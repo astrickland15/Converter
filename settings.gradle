@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-include ':app'
-=======
-include ':app'
->>>>>>> 1d1757f (adding files)
-rootProject.name = "Converter"
